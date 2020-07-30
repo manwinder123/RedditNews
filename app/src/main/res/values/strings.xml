@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin News</string>
+    <string name="article_image">Article Image</string>
+    <string name="article_data">ArticleData</string>
+    <string name="article_does_not_exist">Article does not exist</string>
+    <string name="network_error">There was a network error, please check your connection</string>
+</resources>
